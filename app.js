@@ -5,6 +5,20 @@
 // server layer: express/node
 // storage layer: postgreSQL/pool for queries
 
+// correct formatting: ESLint
+
+
+
+// unit/integration testing: (mocha/chai), jest
+import chai from "chai";
+import Mocha from "mocha";
+
+const assert = chai.assert;
+
+describe()
+
+
+// user reg: bcrypt and cookie-session
 
 // TASK 1
 
