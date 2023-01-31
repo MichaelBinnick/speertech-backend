@@ -2,6 +2,10 @@
 
 // adhere to REST standards
 
+// server layer: express/node
+// storage layer: postgreSQL/pool for queries
+
+
 // TASK 1
 
 // social media app
